@@ -1,0 +1,10 @@
+eat sleep
+eat exercise
+sleep exercise
+sleep study
+study exercise
+study homework
+study test
+study class
+study eat
+study sleep
